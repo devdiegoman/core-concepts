@@ -1,5 +1,5 @@
 import './style.css'
-
+import './solid/liskov-sbustitution/03-solution-liskov';
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `
